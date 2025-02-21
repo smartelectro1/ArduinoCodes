@@ -1,6 +1,5 @@
 /*
- * Rui Santos 
- * Complete Project Details http://randomnerdtutorials.com
+ * smartelectro 
  */
 
 int button_midC = 2;
